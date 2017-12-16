@@ -4,7 +4,7 @@ Implement the use case presented in the following blog link:
 
 https://acadgild.com/blog/aviation-data-analysis-using-apache-pig/
 
-Share screenshots of results and upload the document to git repository.
+Share complete steps along with screenshots of results and upload the document to git repository.
 
 # Solution:
 
